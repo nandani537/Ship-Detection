@@ -65,14 +65,14 @@ The project files, including the notebook and data file, are hosted on GitHub. F
 2. **Navigate to the project folder**:
 
    ```bash
-  cd Ship-Detection
+   cd Ship-Detection
 
 3. **Install the required packages**:
 
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. **Run the Jupyter Notebook**:
 
    ```bash
-  jupyter notebook ship_detection.ipynb
+   jupyter notebook ship_detection.ipynb
